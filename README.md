@@ -18,7 +18,7 @@ Realtime statistic API calls have been reduced from initial implementation to st
 
 ## Lessons Learned:
 
-This activity in particular is dedicated to constant lessons learned -- stretching my comfort level and boundaries of C.S. theories and concepts. I have actively conditioned with primitives such as Arrays, Strings, and Objects, as well as algorithms and the operations on data structures needed for accurate solutions. My software engineering journey is an ever-unraveling experience of discovery, determination and discipline.
+This activity in particular is dedicated to constant lessons learned -- stretching my comfort level and boundaries of C.S. theories and concepts. I have actively conditioned with primitives such as Array, String, Number, boolean and of course **Object**, as well as algorithms and the operations on data structures needed for accurate solutions. My software engineering journey is an ever-unraveling experience of discovery, determination and discipline.
 
 ## Keep Exploring:
 
