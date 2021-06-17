@@ -3,6 +3,7 @@
 function findSenior(list) {
   let sorted = list.sort((a, b) => b.age - a.age);
   const filtered = sorted.filter((a) => a.age === sorted[0].age);
+  return list.filter((a) => filtered.includes(a));
 }
 
 var list1 = [
