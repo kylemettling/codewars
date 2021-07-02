@@ -4,7 +4,7 @@ This is the repository for completed coding challenges from [Codewars.com](https
 
 [Codewars Profile](https://www.codewars.com/users/WonderFilled/completed)
 
-![Codwars Profile](misc/codewars-screenshot.png)
+![Codwars Profile](https://www.codewars.com/users/WonderFilled/badges/large)
 
 <!-- ## How It's Made:
 
