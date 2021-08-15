@@ -9,3 +9,4 @@ console.log(fibNum(3));
 console.log(fibNum(0));
 console.log(fibNum(7));
 console.log(fibNum(13));
+console.log(fibNum(1));
